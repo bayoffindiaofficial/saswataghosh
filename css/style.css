@@ -2,13 +2,13 @@
 /********** General CSS ***********/
 /**********************************/
 body {
-    color: #666666;
-    background: #F6D155;
+    color: ##1b1e8c;
+    background: #FED8B1;
     font-family: 'Open Sans', sans-serif;
 }
 
 a {
-    color: #222222;
+    color: #cc1641;
     transition: all .3s;
 }
 
